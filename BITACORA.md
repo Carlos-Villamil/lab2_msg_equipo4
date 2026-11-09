@@ -3,7 +3,7 @@
 ## Equipo
 | Rol | Nombre | Usuario de GitHub |
 |---|---|---|
-| Integrador | | |
-| Hipotecas | | |
-| Inversiones | | |
-| Registro | | |
+| Integrador |Joel Santiao | |
+| Vista | Joel santiago ||
+| Controlador | Samuel rojas| |
+| Formato y estilo| Carlos Villamil| |
