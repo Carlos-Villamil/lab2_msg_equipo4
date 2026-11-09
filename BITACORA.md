@@ -3,7 +3,7 @@
 ## Equipo
 | Rol | Nombre | Usuario de GitHub |
 |---|---|---|
-| Integrador |Joel Santiao | |
-| Vista | Joel santiago ||
-| Controlador | Samuel rojas| |
-| Formato y estilo| Carlos Villamil| |
+| Integrador |Jhoel Santiago | Dslegacy07|
+| Vista | Jhoel Santiago |Dslegacy07|
+| Controlador | Samuel Rojas| samsteb-ra |
+| Formato y estilo| Carlos Villamil|Carlos-Villamil |
